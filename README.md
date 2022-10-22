@@ -1,1 +1,1 @@
-# springboot
+# springboot jpa활용
